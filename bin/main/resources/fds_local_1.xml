@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+<!-- FDS file -->
+  <fds_file id="1" device_id="106000348" file_name="20150903_200446_NF.mp4"      guid="30a75b64-fc8d-416e-a2dc-8154e73fd988" timestamp="2016-01-06 22:22:20.64" type="video/mp4" upload_completed="1"/>
+  <fds_file id="2" device_id="106000348" file_name="20150903_200701_NF.mp4"      guid="21c97712-5b89-48e7-b905-8a3fb84379f5" timestamp="2016-01-06 22:22:20.64" type="video/mp4" upload_completed="1"/>
+  <fds_file id="3" device_id="106000348" file_name="20151229_224043_237_NF.mp4"  guid="39dd5fe1-89d6-4599-960b-1477e368dfea" timestamp="2016-01-06 22:22:20.64" type="video/mp4" upload_completed="1"/>
+  <fds_file id="4" device_id="106000348" file_name="20151229_224043_237_NR.mp4"  guid="46b96426-dd6d-41ba-8ac5-8c79ef948b30" timestamp="2016-01-06 22:22:20.64" type="video/mp4" upload_completed="1"/>
+  <fds_file id="5" device_id="106000348" file_name="20151229_224114_237_NR.mp4"  guid="f1bf9b4b-8730-462c-aab8-a0860c345e0a" timestamp="2016-01-06 22:22:20.64" type="video/mp4" upload_completed="1"/>
+  <fds_file id="6" device_id="106000348" file_name="20150903_200701_NR.mp4"      guid="ec8a4ce3-30ad-437e-bb07-9209038e83dc" timestamp="2015-12-29 14:41:14.64" type="video/mp4" upload_completed="1"/>
+<!--  Wrong file name  -->  
+  <fds_file id="7" device_id="106000444" file_name="WrongFileName.mp4"      	 guid="30a75b64-fc8d-416e-a2dc-8154e73fd989" timestamp="2016-01-06 22:22:20.64" type="video/mp4" upload_completed="1"/>
+  <fds_file id="8" device_id="106000444" file_name="20150903_200701_NF.mp4"      guid="21c97712-5b89-48e7-b905-8a3fb84379f6" timestamp="2016-01-06 22:22:20.64" type="video/mp4" upload_completed="1"/>
+  <fds_file id="9" device_id="106000444" file_name="20151229_224043_237_NF.mp4"  guid="39dd5fe1-89d6-4599-960b-1477e368dfeb" timestamp="2016-01-06 22:22:20.64" type="video/mp4" upload_completed="1"/>
+  <fds_file id="10" device_id="106000444" file_name="20151229_224043_237_NR.mp4" guid="46b96426-dd6d-41ba-8ac5-8c79ef948b31" timestamp="2016-01-06 22:22:20.64" type="video/mp4" upload_completed="1"/>
+  <fds_file id="11" device_id="106000444" file_name="20151229_224114_237_NR.mp4" guid="f1bf9b4b-8730-462c-aab8-a0860c345e0b" timestamp="2016-01-06 22:22:20.64" type="video/mp4" upload_completed="1"/>
+  <fds_file id="12" device_id="106000444" file_name="WrongFileName2.mp4"     	 guid="ec8a4ce3-30ad-437e-bb07-9209038e83dd" timestamp="2015-12-29 14:41:14.64" type="video/mp4" upload_completed="1"/>
+<!-- Available 1/0 --> 
+  <fds_file id="13" device_id="106000555" file_name="20150903_200446_NF.mp4"     guid="30a75b64-fc8d-416e-a2dc-8154e73fd990" timestamp="2016-01-06 22:22:20.64" type="video/mp4" upload_completed="1"/>
+  <fds_file id="14" device_id="106000555" file_name="20150903_200701_NF.mp4"     guid="21c97712-5b89-48e7-b905-8a3fb84379f7" timestamp="2016-01-06 22:22:20.64" type="video/mp4" upload_completed="0"/>
+  <fds_file id="15" device_id="106000555" file_name="20151229_224043_237_NF.mp4" guid="39dd5fe1-89d6-4599-960b-1477e368dfec" timestamp="2016-01-06 22:22:20.64" type="video/mp4" upload_completed="0"/>
+  <fds_file id="16" device_id="106000555" file_name="20151229_224043_237_NR.mp4" guid="46b96426-dd6d-41ba-8ac5-8c79ef948b32" timestamp="2016-01-06 22:22:20.64" type="video/mp4" upload_completed="1"/>
+  <fds_file id="17" device_id="106000555" file_name="20151229_224114_237_NR.mp4" guid="f1bf9b4b-8730-462c-aab8-a0860c345e0c" timestamp="2016-01-06 22:22:20.64" type="video/mp4" upload_completed="0"/>
+  <fds_file id="18" device_id="106000555" file_name="20150903_200701_NR.mp4"     guid="ec8a4ce3-30ad-437e-bb07-9209038e83de" timestamp="2015-12-29 14:41:14.64" type="video/mp4" upload_completed="0"/>
+<!-- FileName null -->
+  <fds_file id="19" device_id="106000666"  guid="30a75b64-fc8d-416e-a2dc-8154e73fd991" timestamp="2016-01-06 22:22:20.64" type="video/mp4" upload_completed="1"/>
+  <fds_file id="20" device_id="106000666" file_name="20150903_200701_NF.mp4" guid="21c97712-5b89-48e7-b905-8a3fb84379f8" timestamp="2016-01-06 22:22:20.64" type="video/mp4" upload_completed="1"/>
+  <fds_file id="21" device_id="106000666" file_name="20151229_224043_237_NF.mp4" guid="39dd5fe1-89d6-4599-960b-1477e368dfed" timestamp="2016-01-06 22:22:20.64" type="video/mp4" upload_completed="1"/>
+  <fds_file id="22" device_id="106000666" file_name="20151229_224043_237_NR.mp4" guid="46b96426-dd6d-41ba-8ac5-8c79ef948b33" timestamp="2016-01-06 22:22:20.64" type="video/mp4" upload_completed="1"/>
+  <fds_file id="23" device_id="106000666" file_name="20151229_224114_237_NR.mp4" guid="f1bf9b4b-8730-462c-aab8-a0860c345e0d" timestamp="2016-01-06 22:22:20.64" type="video/mp4" upload_completed="1"/>
+  <fds_file id="24" device_id="106000666" file_name="20150903_200701_NR.mp4" guid="ec8a4ce3-30ad-437e-bb07-9209038e83df" timestamp="2015-12-29 14:41:14.64" type="video/mp4" upload_completed="1"/>
+<!-- Guid is null -->
+  <fds_file id="25" device_id="106000777" file_name="20150903_200446_NF.mp4"      timestamp="2016-01-06 22:22:20.64" type="video/mp4" upload_completed="1"/>
+  <fds_file id="26" device_id="106000777" file_name="20150903_200701_NF.mp4"     guid="21c97712-5b89-48e7-b905-8a3fb84379f9" timestamp="2016-01-06 22:22:20.64" type="video/mp4" upload_completed="1"/>
+  <fds_file id="27" device_id="106000777" file_name="20151229_224043_237_NF.mp4" guid="39dd5fe1-89d6-4599-960b-1477e368dfef" timestamp="2016-01-06 22:22:20.64" type="video/mp4" upload_completed="1"/>
+  <fds_file id="28" device_id="106000777" file_name="20151229_224043_237_NR.mp4" guid="46b96426-dd6d-41ba-8ac5-8c79ef948b34" timestamp="2016-01-06 22:22:20.64" type="video/mp4" upload_completed="1"/>
+  <fds_file id="29" device_id="106000777" file_name="20151229_224114_237_NR.mp4" guid="f1bf9b4b-8730-462c-aab8-a0860c345e0e" timestamp="2016-01-06 22:22:20.64" type="video/mp4" upload_completed="1"/>
+  <fds_file id="30" device_id="106000777" file_name="20150903_200701_NR.mp4"     guid="ec8a4ce3-30ad-437e-bb07-9209038e83ef" timestamp="2015-12-29 14:41:14.64" type="video/mp4" upload_completed="1"/>
+ 
+<!-- FDS FILE ATTRIBUTES --> 
+  <fds_file_attribute id="1" name="camera" value="1" fds_file_id="1"/>
+  <fds_file_attribute id="2" name="camera" value="1" fds_file_id="2"/>
+  <fds_file_attribute id="3" name="camera" value="1" fds_file_id="3"/>
+  <fds_file_attribute id="4" name="camera" value="2" fds_file_id="4"/>
+  <fds_file_attribute id="5" name="camera" value="2" fds_file_id="5"/>
+  <fds_file_attribute id="6" name="camera" value="2" fds_file_id="6"/>
+  
+  <fds_file_attribute id="7" name="camera" value="1" fds_file_id="7"/>
+  <fds_file_attribute id="8" name="camera" value="1" fds_file_id="8"/>
+  <fds_file_attribute id="9" name="camera" value="1" fds_file_id="9"/>
+  <fds_file_attribute id="10" name="camera" value="2" fds_file_id="10"/>
+  <fds_file_attribute id="11" name="camera" value="2" fds_file_id="11"/>
+  <fds_file_attribute id="12" name="camera" value="2" fds_file_id="12"/>
+  
+  <fds_file_attribute id="13" name="camera" value="1" fds_file_id="13"/>
+  <fds_file_attribute id="14" name="camera" value="1" fds_file_id="14"/>
+  <fds_file_attribute id="15" name="camera" value="1" fds_file_id="15"/>
+  <fds_file_attribute id="16" name="camera" value="2" fds_file_id="16"/>
+  <fds_file_attribute id="17" name="camera" value="2" fds_file_id="17"/>
+  <fds_file_attribute id="18" name="camera" value="2" fds_file_id="18"/>
+  
+  <fds_file_attribute id="19" name="camera" value="1" fds_file_id="19"/>
+  <fds_file_attribute id="20" name="camera" value="1" fds_file_id="20"/>
+  <fds_file_attribute id="21" name="camera" value="1" fds_file_id="21"/>
+  <fds_file_attribute id="22" name="camera" value="2" fds_file_id="22"/>
+  <fds_file_attribute id="23" name="camera" value="2" fds_file_id="23"/>
+  <fds_file_attribute id="24" name="camera" value="2" fds_file_id="24"/>
+  
+  <fds_file_attribute id="25" name="camera" value="1" fds_file_id="25"/>
+  <fds_file_attribute id="26" name="camera" value="1" fds_file_id="26"/>
+  <fds_file_attribute id="27" name="camera" value="1" fds_file_id="27"/>
+  <fds_file_attribute id="28" name="camera" value="2" fds_file_id="28"/>
+  <fds_file_attribute id="29" name="camera" value="2" fds_file_id="29"/>
+  <fds_file_attribute id="30" name="camera" value="2" fds_file_id="30"/>
+  
+<!-- FILE GROUP  --> 
+  <file_group id="2" device_id="106000348" guid="f1bf9b4b-8730-462c-aab8-a0860c345e0a"/>
+  <file_group id="3" device_id="106000444" guid="f1bf9b4b-8730-462c-aab8-a0860c345e0b"/>
+  <file_group id="4" device_id="106000555" guid="f1bf9b4b-8730-462c-aab8-a0860c345e0c"/>
+  <file_group id="5" device_id="106000666" guid="f1bf9b4b-8730-462c-aab8-a0860c345e0d"/>
+  <file_group id="6" device_id="106000777" guid="f1bf9b4b-8730-462c-aab8-a0860c345e0e"/>
+<!-- FILE GROUP ATTRIBUTE -->  
+  <file_group_attribute id="2" name="eventId" value="021451428600" file_group_id="2"/>
+  <file_group_attribute id="3" name="eventId" value="021451428600" file_group_id="3"/>
+  <file_group_attribute id="4" name="eventId" value="021451428600" file_group_id="4"/>
+  <file_group_attribute id="5" name="eventId" value="021451428600" file_group_id="5"/>
+  <file_group_attribute id="6" name="eventId" value="021451428600" file_group_id="6"/>
+<!-- FILE GROUP FILES --> 
+  <filegroup_files fk_file_group="2" fk_fds_file="1"/>
+  <filegroup_files fk_file_group="2" fk_fds_file="2"/>
+  <filegroup_files fk_file_group="2" fk_fds_file="3"/>
+  <filegroup_files fk_file_group="2" fk_fds_file="4"/>
+  <filegroup_files fk_file_group="2" fk_fds_file="5"/>
+  <filegroup_files fk_file_group="2" fk_fds_file="6"/>
+  
+  <filegroup_files fk_file_group="3" fk_fds_file="7"/>
+  <filegroup_files fk_file_group="3" fk_fds_file="8"/>
+  <filegroup_files fk_file_group="3" fk_fds_file="9"/>
+  <filegroup_files fk_file_group="3" fk_fds_file="10"/>
+  <filegroup_files fk_file_group="3" fk_fds_file="11"/>
+  <filegroup_files fk_file_group="3" fk_fds_file="12"/>
+  
+  <filegroup_files fk_file_group="4" fk_fds_file="13"/>
+  <filegroup_files fk_file_group="4" fk_fds_file="14"/>
+  <filegroup_files fk_file_group="4" fk_fds_file="15"/>
+  <filegroup_files fk_file_group="4" fk_fds_file="16"/>
+  <filegroup_files fk_file_group="4" fk_fds_file="17"/>
+  <filegroup_files fk_file_group="4" fk_fds_file="18"/>
+  
+  <filegroup_files fk_file_group="5" fk_fds_file="19"/>
+  <filegroup_files fk_file_group="5" fk_fds_file="20"/>
+  <filegroup_files fk_file_group="5" fk_fds_file="21"/>
+  <filegroup_files fk_file_group="5" fk_fds_file="22"/>
+  <filegroup_files fk_file_group="5" fk_fds_file="23"/>
+  <filegroup_files fk_file_group="5" fk_fds_file="24"/>
+  
+  <filegroup_files fk_file_group="6" fk_fds_file="25"/>
+  <filegroup_files fk_file_group="6" fk_fds_file="26"/>
+  <filegroup_files fk_file_group="6" fk_fds_file="27"/>
+  <filegroup_files fk_file_group="6" fk_fds_file="28"/>
+  <filegroup_files fk_file_group="6" fk_fds_file="29"/>
+  <filegroup_files fk_file_group="6" fk_fds_file="30"/>
+  
+</dataset>

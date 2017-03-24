@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+
+	<!-- one file for each front, rare-->
+	<fds_file id="31" device_id="106000800" file_name="20150903_200446_NF.mp4"      guid="30a75b64-fc8d-416e-a2dc-8154e73fd992" timestamp="2016-10-06 22:19:31.000" type="video/mp4" upload_completed="1" create_date="[currentDateMinus2]" app_id="CER"/>
+  	<fds_file id="32" device_id="106000800" file_name="20151229_224114_237_NR.mp4"  guid="21c97712-5b89-48e7-b905-8a3fb84379f0" timestamp="2016-10-06 22:22:20.640" type="video/mp4" upload_completed="1" create_date="[currentDateMinus2]" app_id="CER"/>
+	
+	<fds_file_attribute id="1" name="camera" value="1" fds_file_id="31"/>
+  	<fds_file_attribute id="2" name="camera" value="2" fds_file_id="32"/>
+	<fds_file_attribute id="3" name="duration" value="3000" fds_file_id="31"/>
+   	<fds_file_attribute id="4" name="duration" value="3000" fds_file_id="32"/>
+ 
+	<!-- FILE GROUP  --> 
+	<file_group id="1" device_id="106000800" guid="f1bf9b4b-8730-462c-aab8-a0860c345e0f" app_id="CER"/>
+	
+	<!-- FILE GROUP ATTRIBUTE -->  
+	<file_group_attribute id="1" name="eventId" value="021451428600" file_group_id="1"/>
+  
+	<!-- FILE GROUP FILES --> 
+	<filegroup_files fk_file_group="1" fk_fds_file="31"/>
+	<filegroup_files fk_file_group="1" fk_fds_file="32"/>
+</dataset>
